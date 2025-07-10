@@ -1,10 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Ufuk Çatalca</h1>
-<h3 align="center">Senior Engineering Manager | Creator of Huzur Vakti & Horizon Super App</h3>
+<h3 align="center">Senior Engineering Manager | iOS Developer | Product-Focused Tech Leader</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-0096D6?style=flat&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Leadership-Managerial-blue"/>
   <img src="https://komarev.com/ghpvc/?username=ufukcatalca&style=flat&color=blue" alt="ufukcatalca" />
 </p>
 
@@ -12,31 +14,45 @@
 
 ### 🚀 About Me
 
-- 🎯 Passionate iOS Developer focused on clean architecture and user-centric design  
-- 🕌 Creator of [**Huzur Vakti – Namaz Vakitleri**](https://apps.apple.com/tr/app/huzur-vakti-namaz-vakitleri/id6748117055?l=tr)  
-- 🌄 Co-creator of [**Horizon Super App**](https://appadvice.com/game/app/horizon/6745342198)  
-- 📍 Based in Istanbul | Traveler | Minimalist
+- 🎯 Senior Engineering Manager with 10+ years of experience in mobile development and technical leadership  
+- 📱 iOS Developer passionate about clean architecture, beautiful UI, and privacy-respecting apps  
+- 🧭 Product-focused thinker, always aiming for user delight and business impact  
+- 🤝 Experienced in growing engineering teams, mentoring developers, and scaling mobile apps from 0 to 1 and 1 to millions  
+- 📍 Based in Istanbul | Builder | Explorer | Mentor
 
 ---
 
-### 📱 My Apps on the App Store
+### 🧑‍💼 Engineering Management Experience
+
+- ✅ Managing cross-functional mobile teams (iOS/Android/QA/Product) with agile methodology  
+- 🧑‍🏫 Mentored 10+ junior and mid-level developers into senior roles  
+- 📈 Delivered multiple high-impact mobile releases with focus on quality, performance, and scalability  
+- ⚙️ Spearheaded app architecture rewrites, CI/CD process improvements, and hiring strategies  
+- 💬 Advocated for developer experience and continuous learning culture within organizations  
+
+---
+
+### 📱 Featured Apps
 
 #### 🔹 [Huzur Vakti – Namaz Vakitleri](https://apps.apple.com/tr/app/huzur-vakti-namaz-vakitleri/id6748117055?l=tr)  
-🕋 Elegant and ad-free prayer time app built with Swift & WidgetKit  
-🧭 Dynamic compass, customizable themes, zikir notifications  
-📊 Usage analytics & Firebase integration  
-🌙 Focus on privacy, simplicity and speed
+🕋 Elegant, ad-free prayer time app made with Swift & WidgetKit  
+🔔 Custom zikir & dua notifications  
+🧭 Dynamic compass, simple UI, and offline-first experience  
+🔒 Focus on privacy and performance
 
 #### 🔹 [Horizon Super App](https://appadvice.com/game/app/horizon/6745342198)  
-🎮 A new kind of interactive platform combining productivity and entertainment  
-🌐 Bridging modern UI/UX with functional daily tools  
-🛠️ Technologies: SwiftUI, CloudKit, Push Notifications, RevenueCat
+🌐 A visionary platform blending productivity and fun  
+🛠️ Built with SwiftUI, RevenueCat, and CloudKit  
+💡 Designed to feel like an operating system within your phone  
+📊 Growth-focused and data-informed roadmap
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ Tech Stack
 
 ```swift
-Languages: Swift, SwiftUI, Objective-C (legacy)
-Frameworks: UIKit, Combine, CoreData, WidgetKit, CloudKit
-Tools: Xcode, Firebase, RevenueCat, Fastlane, Git
+Languages: Swift, SwiftUI, Objective-C
+Architecture: MVVM, Clean Architecture, Modular Design
+CI/CD: Fastlane, GitHub Actions, Firebase App Distribution
+Frameworks: UIKit, Combine, WidgetKit, StoreKit, CloudKit
+Tools: Xcode, Postman, Git, Figma, JIRA, RevenueCat, Firebase, Notion
