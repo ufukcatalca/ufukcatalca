@@ -17,7 +17,12 @@
 - 🎯 Senior Engineering Manager with 10+ years of experience in mobile development and technical leadership  
 - 📱 iOS Developer passionate about clean architecture, beautiful UI, and privacy-respecting apps  
 - 🧭 Product-focused thinker, always aiming for user delight and business impact  
-- 🤝 Experienced in growing engineering teams, mentoring developers, and scaling mobile apps from 0 to 1 and 1 to millions  
+- 🤝 Experienced in growing engineering teams, mentoring developers, and scaling mobile apps from 0 to 1 and 1 to millions
+🔹 I am a **Senior Engineering Manager** with 10+ years of hands-on experience in iOS development and team leadership.  
+🔹 Passionate about building elegant mobile applications, leading high-performing teams, and creating product-focused engineering cultures.  
+🔹 Deep expertise in **Swift, SwiftUI, Clean Architecture**, and scalable codebases.  
+🔹 I believe in **clarity over complexity**, **growth over perfection**, and **users over features**.
+
 - 📍 Based in Istanbul | Builder | Explorer | Mentor
 
 ---
@@ -48,11 +53,23 @@
 
 ---
 
-### ⚙️ Tech Stack
+### 💼 Professional Experience & Focus
+
+- 🧑‍💻 Leading mobile teams (iOS & Android) in fast-paced, agile environments  
+- 🧭 Driving product & technical strategy in cross-functional teams  
+- 🧱 Designing scalable app architectures (modular, reactive, testable)  
+- 🛠️ Spearheading CI/CD pipelines and release automation (Fastlane, GitHub Actions)  
+- 🔍 Reviewing code, mentoring developers, and fostering technical excellence  
+- 👥 Hiring & growing engineering talent with structured performance frameworks
+
+---
+
+### 🛠️ Tech Stack
 
 ```swift
-Languages: Swift, SwiftUI, Objective-C
-Architecture: MVVM, Clean Architecture, Modular Design
-CI/CD: Fastlane, GitHub Actions, Firebase App Distribution
-Frameworks: UIKit, Combine, WidgetKit, StoreKit, CloudKit
-Tools: Xcode, Postman, Git, Figma, JIRA, RevenueCat, Firebase, Notion
+Languages     : Swift, SwiftUI, Objective-C  
+Architectures : MVVM, VIPER, Clean Architecture, Modular Monolith  
+CI/CD Tools   : Fastlane, GitHub Actions, Firebase App Distribution  
+Cloud & Tools : CloudKit, Firebase, RevenueCat, Postman, JIRA, Notion  
+UI/UX         : UIKit, Combine, Figma, SF Symbols, WidgetKit  
+App Analytics : App Store Connect, Firebase, Mixpanel, OneSignal  
