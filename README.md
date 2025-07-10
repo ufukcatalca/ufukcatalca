@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ufuk Çatalca</h1>
-<h3 align="center">Senior Engineering Manager | iOS Developer | Product-Focused Tech Leader</h3>
+<h3 align="center">Senior Engineering Manager | Staff iOS Engineer | Product-Focused Tech Leader</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/>
