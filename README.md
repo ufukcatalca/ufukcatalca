@@ -18,6 +18,8 @@
 - 📱 iOS Developer passionate about clean architecture, beautiful UI, and privacy-respecting apps  
 - 🧭 Product-focused thinker, always aiming for user delight and business impact  
 - 🤝 Experienced in growing engineering teams, mentoring developers, and scaling mobile apps from 0 to 1 and 1 to millions
+
+
 🔹 I am a **Senior Engineering Manager** with 10+ years of hands-on experience in iOS development and team leadership.  
 🔹 Passionate about building elegant mobile applications, leading high-performing teams, and creating product-focused engineering cultures.  
 🔹 Deep expertise in **Swift, SwiftUI, Clean Architecture**, and scalable codebases.  
