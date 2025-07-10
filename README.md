@@ -44,7 +44,7 @@
 🧭 Dynamic compass, simple UI, and offline-first experience  
 🔒 Focus on privacy and performance
 
-#### 🔹 [Horizon Super App](https://appadvice.com/game/app/horizon/6745342198)  
+#### 🔹 [Horizon Super App](https://apps.apple.com/tr/app/horizon-superapp/id6745342198?l=tr)  
 🌐 A visionary platform blending productivity and fun  
 🛠️ Built with SwiftUI, RevenueCat, and CloudKit  
 💡 Designed to feel like an operating system within your phone  
