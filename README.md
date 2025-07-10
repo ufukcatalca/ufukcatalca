@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Ufuk Çatalca</h1>
-<h3 align="center">iOS Developer | Creator of Huzur Vakti & Horizon Super App</h3>
+<h3 align="center">Senior Engineering Manager | Creator of Huzur Vakti & Horizon Super App</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/>
